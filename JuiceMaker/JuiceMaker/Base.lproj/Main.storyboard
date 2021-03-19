@@ -414,6 +414,13 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="2Yc-de-iZL"/>
+                    <connections>
+                        <outlet property="stockOfBanana" destination="g6T-Wj-Oqg" id="mkN-aX-SgX"/>
+                        <outlet property="stockOfKiwi" destination="Sd7-WK-KeM" id="PAu-2w-ppe"/>
+                        <outlet property="stockOfMango" destination="d2o-5t-oxW" id="SwP-lg-sLe"/>
+                        <outlet property="stockOfPineapple" destination="cnE-M1-zAf" id="iUk-Bg-e1P"/>
+                        <outlet property="stockOfStrawberry" destination="00D-BJ-cK5" id="RQv-gO-KgZ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WDc-At-xQg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>

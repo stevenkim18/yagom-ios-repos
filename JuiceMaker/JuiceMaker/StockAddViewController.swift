@@ -9,12 +9,20 @@ import UIKit
 
 class StockAddViewController: UIViewController {
     var juiceMachine: JuiceMaker?
-//    var test: String?
+    
+    @IBOutlet weak var stockOfStrawberry: UILabel!
+    @IBOutlet weak var stockOfBanana: UILabel!
+    @IBOutlet weak var stockOfPineapple: UILabel!
+    @IBOutlet weak var stockOfKiwi: UILabel!
+    @IBOutlet weak var stockOfMango: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(juiceMachine!.checkStock(of: .strawberry))
-//        print(test)
+        stockOfStrawberry.text = String(juiceMachine!.checkStock(of: Fruit.strawberry))
+        stockOfBanana.text = String(juiceMachine!.checkStock(of: Fruit.banana))
+        stockOfPineapple.text = String(juiceMachine!.checkStock(of: Fruit.pineapple))
+        stockOfKiwi.text = String(juiceMachine!.checkStock(of: Fruit.kiwi))
+        stockOfMango.text = String(juiceMachine!.checkStock(of: Fruit.mango))
     }
     
     @IBAction func touchUpCloseButton(_ sender: UIButton) {

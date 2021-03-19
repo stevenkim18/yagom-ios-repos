@@ -87,8 +87,7 @@ class ViewController: UIViewController {
         let stockAddAction = UIAlertAction(title: "예", style: .default) { (action) in
             guard let svc = self.storyboard?.instantiateViewController(withIdentifier: "StockAdd") as? StockAddViewController else { return }
             svc.modalTransitionStyle = UIModalTransitionStyle.coverVertical
-//            svc.juiceMachine = self.juiceMachine
-//            svc.test = "1234"
+            svc.juiceMachine = self.juiceMachine
             self.present(svc, animated: true, completion: nil)
         }
         let cancelAction = UIAlertAction(title: "아니오", style: .cancel, handler: nil)
