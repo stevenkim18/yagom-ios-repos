@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        print(juiceMachine.checkStock(of: .strawberry))
         stockOfStrawberry.text = String(juiceMachine.checkStock(of: Fruit.strawberry))
         stockOfBanana.text = String(juiceMachine.checkStock(of: Fruit.banana))
         stockOfPineapple.text = String(juiceMachine.checkStock(of: Fruit.pineapple))
