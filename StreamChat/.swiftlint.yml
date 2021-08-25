@@ -1,0 +1,8 @@
+disabled_rules:
+- trailing_whitespace
+- force_cast
+included:
+excluded:
+- Pods
+- StreamChat/Source/Application/AppDelegate.swift
+- StreamChat/Source/Application/SceneDelegate.swift

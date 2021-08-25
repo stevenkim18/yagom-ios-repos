@@ -7,15 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B027F9B026C390C700AA67F3 /* .swiftlint.yml in Resources */ = {isa = PBXBuildFile; fileRef = B027F9AF26C390C700AA67F3 /* .swiftlint.yml */; };
+		B027F9B926C3A84200AA67F3 /* StreamManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B027F9B826C3A84200AA67F3 /* StreamManager.swift */; };
+		B027F9D326C3A93500AA67F3 /* StreamChatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B027F9D226C3A93500AA67F3 /* StreamChatTests.swift */; };
+		B03FE47B26CE206C00D7BC22 /* UnsafeMutablePointer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B03FE47A26CE206C00D7BC22 /* UnsafeMutablePointer.swift */; };
+		B0783CFE26C605FB00902FFE /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0783CFD26C605FB00902FFE /* Message.swift */; };
+		B0783D0B26C65CE400902FFE /* MessageConstant.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0783D0A26C65CE400902FFE /* MessageConstant.swift */; };
+		B0783D1126C65CFF00902FFE /* OutgoingMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0783D1026C65CFF00902FFE /* OutgoingMessage.swift */; };
+		B0783D1526C65D1800902FFE /* MessageType.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0783D1426C65D1800902FFE /* MessageType.swift */; };
+		B0D4692B26C508F500FBA6E1 /* ChatServerInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0D4692A26C508F500FBA6E1 /* ChatServerInfo.swift */; };
+		B0D4693026C50D8A00FBA6E1 /* ChatRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0D4692F26C50D8A00FBA6E1 /* ChatRoom.swift */; };
 		C7927555262C562B00EF5D3A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7927554262C562B00EF5D3A /* AppDelegate.swift */; };
 		C7927557262C562B00EF5D3A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7927556262C562B00EF5D3A /* SceneDelegate.swift */; };
 		C7927559262C562B00EF5D3A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7927558262C562B00EF5D3A /* ViewController.swift */; };
 		C792755C262C562B00EF5D3A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C792755A262C562B00EF5D3A /* Main.storyboard */; };
 		C792755E262C562E00EF5D3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C792755D262C562E00EF5D3A /* Assets.xcassets */; };
 		C7927561262C562E00EF5D3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C792755F262C562E00EF5D3A /* LaunchScreen.storyboard */; };
+		DDA6C09695F6702ED9D154A0 /* Pods_StreamChat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46D4B9AAC811CFE887F5813C /* Pods_StreamChat.framework */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		B027F9D526C3A93500AA67F3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C7927549262C562B00EF5D3A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C7927550262C562B00EF5D3A;
+			remoteInfo = StreamChat;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		108D3E23FA92816AE043B483 /* Pods-StreamChat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StreamChat.debug.xcconfig"; path = "Target Support Files/Pods-StreamChat/Pods-StreamChat.debug.xcconfig"; sourceTree = "<group>"; };
+		46D4B9AAC811CFE887F5813C /* Pods_StreamChat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StreamChat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B027F9AF26C390C700AA67F3 /* .swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .swiftlint.yml; sourceTree = "<group>"; };
+		B027F9B826C3A84200AA67F3 /* StreamManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamManager.swift; sourceTree = "<group>"; };
+		B027F9D026C3A93500AA67F3 /* StreamChatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StreamChatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B027F9D226C3A93500AA67F3 /* StreamChatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamChatTests.swift; sourceTree = "<group>"; };
+		B027F9D426C3A93500AA67F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B03FE47A26CE206C00D7BC22 /* UnsafeMutablePointer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnsafeMutablePointer.swift; sourceTree = "<group>"; };
+		B0783CFD26C605FB00902FFE /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		B0783D0A26C65CE400902FFE /* MessageConstant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageConstant.swift; sourceTree = "<group>"; };
+		B0783D1026C65CFF00902FFE /* OutgoingMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutgoingMessage.swift; sourceTree = "<group>"; };
+		B0783D1426C65D1800902FFE /* MessageType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageType.swift; sourceTree = "<group>"; };
+		B0D4692A26C508F500FBA6E1 /* ChatServerInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatServerInfo.swift; sourceTree = "<group>"; };
+		B0D4692F26C50D8A00FBA6E1 /* ChatRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatRoom.swift; sourceTree = "<group>"; };
+		BEE05EEB774DC4085A13624D /* Pods-StreamChat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StreamChat.release.xcconfig"; path = "Target Support Files/Pods-StreamChat/Pods-StreamChat.release.xcconfig"; sourceTree = "<group>"; };
 		C7927551262C562B00EF5D3A /* StreamChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StreamChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7927554262C562B00EF5D3A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7927556262C562B00EF5D3A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -23,25 +59,155 @@
 		C792755B262C562B00EF5D3A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C792755D262C562E00EF5D3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7927560262C562E00EF5D3A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C7927562262C562E00EF5D3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7927562262C562E00EF5D3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = StreamChat/Resources/Info.plist; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C792754E262C562B00EF5D3A /* Frameworks */ = {
+		B027F9CD26C3A93500AA67F3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		C792754E262C562B00EF5D3A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DDA6C09695F6702ED9D154A0 /* Pods_StreamChat.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3609BD27EDD61A4733A90A92 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				108D3E23FA92816AE043B483 /* Pods-StreamChat.debug.xcconfig */,
+				BEE05EEB774DC4085A13624D /* Pods-StreamChat.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		7A0D677EF21E0EAFD11C297C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				46D4B9AAC811CFE887F5813C /* Pods_StreamChat.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B027F9D126C3A93500AA67F3 /* StreamChatTests */ = {
+			isa = PBXGroup;
+			children = (
+				B027F9D226C3A93500AA67F3 /* StreamChatTests.swift */,
+				B027F9D426C3A93500AA67F3 /* Info.plist */,
+			);
+			path = StreamChatTests;
+			sourceTree = "<group>";
+		};
+		B03FE47926CE204E00D7BC22 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				B03FE47A26CE206C00D7BC22 /* UnsafeMutablePointer.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		B0783CFB26C605E200902FFE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B0783CFD26C605FB00902FFE /* Message.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B0783D0926C65CD100902FFE /* Constant */ = {
+			isa = PBXGroup;
+			children = (
+				B0D4692A26C508F500FBA6E1 /* ChatServerInfo.swift */,
+				B0783D0A26C65CE400902FFE /* MessageConstant.swift */,
+				B0783D1426C65D1800902FFE /* MessageType.swift */,
+				B0783D1026C65CFF00902FFE /* OutgoingMessage.swift */,
+			);
+			path = Constant;
+			sourceTree = "<group>";
+		};
+		B0D4692326C4FB9600FBA6E1 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				B0D4692426C4FB9E00FBA6E1 /* Application */,
+				B0783D0926C65CD100902FFE /* Constant */,
+				B0D4692726C506E400FBA6E1 /* Controllers */,
+				B03FE47926CE204E00D7BC22 /* Extension */,
+				B0783CFB26C605E200902FFE /* Model */,
+				B0D4692E26C50D7400FBA6E1 /* Services */,
+				B0D4692826C5070000FBA6E1 /* Network */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		B0D4692426C4FB9E00FBA6E1 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				C7927554262C562B00EF5D3A /* AppDelegate.swift */,
+				C7927556262C562B00EF5D3A /* SceneDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		B0D4692526C4FBB500FBA6E1 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				C792755A262C562B00EF5D3A /* Main.storyboard */,
+				C792755F262C562E00EF5D3A /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		B0D4692626C4FBDB00FBA6E1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C792755D262C562E00EF5D3A /* Assets.xcassets */,
+				C7927562262C562E00EF5D3A /* Info.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		B0D4692726C506E400FBA6E1 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				C7927558262C562B00EF5D3A /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		B0D4692826C5070000FBA6E1 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				B027F9B826C3A84200AA67F3 /* StreamManager.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		B0D4692E26C50D7400FBA6E1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				B0D4692F26C50D8A00FBA6E1 /* ChatRoom.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
 		C7927548262C562B00EF5D3A = {
 			isa = PBXGroup;
 			children = (
+				B027F9AF26C390C700AA67F3 /* .swiftlint.yml */,
 				C7927553262C562B00EF5D3A /* StreamChat */,
+				B027F9D126C3A93500AA67F3 /* StreamChatTests */,
 				C7927552262C562B00EF5D3A /* Products */,
+				3609BD27EDD61A4733A90A92 /* Pods */,
+				7A0D677EF21E0EAFD11C297C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -49,6 +215,7 @@
 			isa = PBXGroup;
 			children = (
 				C7927551262C562B00EF5D3A /* StreamChat.app */,
+				B027F9D026C3A93500AA67F3 /* StreamChatTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,13 +223,9 @@
 		C7927553262C562B00EF5D3A /* StreamChat */ = {
 			isa = PBXGroup;
 			children = (
-				C7927554262C562B00EF5D3A /* AppDelegate.swift */,
-				C7927556262C562B00EF5D3A /* SceneDelegate.swift */,
-				C7927558262C562B00EF5D3A /* ViewController.swift */,
-				C792755A262C562B00EF5D3A /* Main.storyboard */,
-				C792755D262C562E00EF5D3A /* Assets.xcassets */,
-				C792755F262C562E00EF5D3A /* LaunchScreen.storyboard */,
-				C7927562262C562E00EF5D3A /* Info.plist */,
+				B0D4692326C4FB9600FBA6E1 /* Source */,
+				B0D4692526C4FBB500FBA6E1 /* Storyboards */,
+				B0D4692626C4FBDB00FBA6E1 /* Resources */,
 			);
 			path = StreamChat;
 			sourceTree = "<group>";
@@ -70,13 +233,33 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		B027F9CF26C3A93500AA67F3 /* StreamChatTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B027F9D926C3A93500AA67F3 /* Build configuration list for PBXNativeTarget "StreamChatTests" */;
+			buildPhases = (
+				B027F9CC26C3A93500AA67F3 /* Sources */,
+				B027F9CD26C3A93500AA67F3 /* Frameworks */,
+				B027F9CE26C3A93500AA67F3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B027F9D626C3A93500AA67F3 /* PBXTargetDependency */,
+			);
+			name = StreamChatTests;
+			productName = StreamChatTests;
+			productReference = B027F9D026C3A93500AA67F3 /* StreamChatTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		C7927550262C562B00EF5D3A /* StreamChat */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = C7927565262C562E00EF5D3A /* Build configuration list for PBXNativeTarget "StreamChat" */;
 			buildPhases = (
+				7E3A9E85B59CE67A753C9C3F /* [CP] Check Pods Manifest.lock */,
 				C792754D262C562B00EF5D3A /* Sources */,
 				C792754E262C562B00EF5D3A /* Frameworks */,
 				C792754F262C562B00EF5D3A /* Resources */,
+				B0E7149726C3902B0039C456 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -96,6 +279,10 @@
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
+					B027F9CF26C3A93500AA67F3 = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = C7927550262C562B00EF5D3A;
+					};
 					C7927550262C562B00EF5D3A = {
 						CreatedOnToolsVersion = 12.4;
 					};
@@ -115,15 +302,24 @@
 			projectRoot = "";
 			targets = (
 				C7927550262C562B00EF5D3A /* StreamChat */,
+				B027F9CF26C3A93500AA67F3 /* StreamChatTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		B027F9CE26C3A93500AA67F3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		C792754F262C562B00EF5D3A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B027F9B026C390C700AA67F3 /* .swiftlint.yml in Resources */,
 				C7927561262C562E00EF5D3A /* LaunchScreen.storyboard in Resources */,
 				C792755E262C562E00EF5D3A /* Assets.xcassets in Resources */,
 				C792755C262C562B00EF5D3A /* Main.storyboard in Resources */,
@@ -132,18 +328,84 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		7E3A9E85B59CE67A753C9C3F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-StreamChat-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B0E7149726C3902B0039C456 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n${PODS_ROOT}/SwiftLint/swiftlint\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
+		B027F9CC26C3A93500AA67F3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B027F9D326C3A93500AA67F3 /* StreamChatTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		C792754D262C562B00EF5D3A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0D4693026C50D8A00FBA6E1 /* ChatRoom.swift in Sources */,
 				C7927559262C562B00EF5D3A /* ViewController.swift in Sources */,
 				C7927555262C562B00EF5D3A /* AppDelegate.swift in Sources */,
+				B0783D1526C65D1800902FFE /* MessageType.swift in Sources */,
+				B0D4692B26C508F500FBA6E1 /* ChatServerInfo.swift in Sources */,
+				B03FE47B26CE206C00D7BC22 /* UnsafeMutablePointer.swift in Sources */,
+				B027F9B926C3A84200AA67F3 /* StreamManager.swift in Sources */,
 				C7927557262C562B00EF5D3A /* SceneDelegate.swift in Sources */,
+				B0783D1126C65CFF00902FFE /* OutgoingMessage.swift in Sources */,
+				B0783CFE26C605FB00902FFE /* Message.swift in Sources */,
+				B0783D0B26C65CE400902FFE /* MessageConstant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B027F9D626C3A93500AA67F3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C7927550262C562B00EF5D3A /* StreamChat */;
+			targetProxy = B027F9D526C3A93500AA67F3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		C792755A262C562B00EF5D3A /* Main.storyboard */ = {
@@ -165,6 +427,46 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		B027F9D726C3A93500AA67F3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U77SWC9NZT;
+				INFOPLIST_FILE = StreamChatTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.steven.StreamChatTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamChat.app/StreamChat";
+			};
+			name = Debug;
+		};
+		B027F9D826C3A93500AA67F3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U77SWC9NZT;
+				INFOPLIST_FILE = StreamChatTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.steven.StreamChatTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamChat.app/StreamChat";
+			};
+			name = Release;
+		};
 		C7927563262C562E00EF5D3A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -283,11 +585,12 @@
 		};
 		C7927566262C562E00EF5D3A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 108D3E23FA92816AE043B483 /* Pods-StreamChat.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = StreamChat/Info.plist;
+				INFOPLIST_FILE = StreamChat/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,11 +604,12 @@
 		};
 		C7927567262C562E00EF5D3A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BEE05EEB774DC4085A13624D /* Pods-StreamChat.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = StreamChat/Info.plist;
+				INFOPLIST_FILE = StreamChat/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -320,6 +624,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		B027F9D926C3A93500AA67F3 /* Build configuration list for PBXNativeTarget "StreamChatTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B027F9D726C3A93500AA67F3 /* Debug */,
+				B027F9D826C3A93500AA67F3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		C792754C262C562B00EF5D3A /* Build configuration list for PBXProject "StreamChat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
