@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        print(juiceMachine.checkStock(of: .strawberry))
         stockOfStrawberry.text = String(juiceMachine.checkStock(of: Fruit.strawberry))
         stockOfBanana.text = String(juiceMachine.checkStock(of: Fruit.banana))
         stockOfPineapple.text = String(juiceMachine.checkStock(of: Fruit.pineapple))
@@ -85,8 +89,9 @@ class ViewController: UIViewController {
     func showAlert(message: String) {
         let alert = UIAlertController(title: nil, message: message, preferredStyle: .alert)
         let stockAddAction = UIAlertAction(title: "예", style: .default) { (action) in
-            guard let svc = self.storyboard?.instantiateViewController(withIdentifier: "StockAdd") else { return }
+            guard let svc = self.storyboard?.instantiateViewController(withIdentifier: "StockAdd") as? StockAddViewController else { return }
             svc.modalTransitionStyle = UIModalTransitionStyle.coverVertical
+            svc.juiceMachine = self.juiceMachine
             self.present(svc, animated: true, completion: nil)
         }
         let cancelAction = UIAlertAction(title: "아니오", style: .cancel, handler: nil)
@@ -100,4 +105,11 @@ class ViewController: UIViewController {
             present(alert, animated: true, completion: nil)
         }
     }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let destination = segue.destination
+        guard let svc = destination as? StockAddViewController else { return }
+        svc.juiceMachine = self.juiceMachine
+    }
+    
 }
