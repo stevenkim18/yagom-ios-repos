@@ -1,16 +1,7 @@
-## iOS 커리어 스타터 캠프
+# 묵찌빠 프로젝트 저장소
 
-### 묵찌빠 프로젝트 저장소
-
-- 이 저장소를 자신의 저장소로 fork하여 프로젝트를 진행합니다
-
-### 묵찌빠 게임 프로젝트 - 팀그라운드룰
-
-#### 팀원
-
-@Steven Kim 
-
-@Ryan Son 
+## 팀원
+@stevenkim18, [@ryan-son](https://github.com/ryan-son)
 
 #### ****우리 팀만의 규칙****
 
@@ -35,4 +26,3 @@
 - 커밋 메시지 규칙
     - [https://junwoo45.github.io/2020-02-06-commit_template/](https://junwoo45.github.io/2020-02-06-commit_template/)
 
-### 설계
