@@ -1,6 +1,24 @@
 # JuiceMaker
 ## 캠퍼
-Sunny, Steven
+[Sunny](https://github.com/unme88), Steven
+
+## 프로젝트 설명
+- 주스 자판기 앱 구현
+- 주스 주문, 재고 수정 기능 구현
+
+## 핵심 경험
+- UML 작성 및 설계
+- 주스 재고 관리 모델 구현
+- Uikit에 대한 이해
+- 화면 전환(코드, Segue 이용)
+- Stepper 사용
+- Alert controller 사용
+- enum 연산 프로터피 사용
+- 딕셔너리 사용
+
+## PR
+[첫번째PR](https://github.com/yagom-academy/ios-juice-maker/pull/47)
+[두번째PR](https://github.com/yagom-academy/ios-juice-maker/pull/56)
 
 ## 기간
 - 2021/03/08 ~ 2021/03/21
