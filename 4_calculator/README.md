@@ -3,10 +3,30 @@
 [팀그라운드룰](https://github.com/stevenkim18/ios-calculator-app/blob/main/docs/teamGroundRule.md)
 
 ## 팀원
-SJ, Steven, Kio
+[SJ](https://github.com/SoKoooool), Steven, [Kio](https://github.com/Kioding)
+
+## 프로젝트 설명
+- 아이폰 기본 내장 계산기 구현
+- 10진수 2진수 기능 구현
+
+## 핵심 경험
+- 스택 자료구조의 이해와 구현
+- 계산기 동작 원리 연구
+- 커스텀 뷰 구현
+- 오토레이아웃의 이해 및 구현
+- 스택뷰 사용
+- 클로져의 이해 및 활용
+- 익스텐션의 이해 및 활용
+- 이진수의 이해 및 계산
+
+## PR
+[첫번째PR](https://github.com/yagom-academy/ios-calculator-app/pull/23)
 
 ## 기간
 21/03/21 - 21/04/04
+
+
+
 ## 타임 라인
 - 3/21(월): 팀 그라운드 룰 작성, UML 공부 및 실습
 - 3/22(화): Stack, 제네릭, 프로토콜 개념 공부, [새로운 지식을 나의 지식으로 만드는 법] 특강, 10진수 계산기 메인 로직 고민해 보기
@@ -44,7 +64,7 @@ SJ, Steven, Kio
 
 ### 계산기
 - 2개의 숫자 연산   
-![기본 연산](https://user-images.githubusercontent.com/35272802/113390534-e6d0ff00-93cc-11eb-818b-ad963817231d.gif)
+![기본 연산](https://user-images.githubusercontent.com/35272802/113390534-e6d0ff00-93cc-11eb-818b-ad963817231d.gif)
 - 10진수/2진수 토글 기능   
 ![toggle](https://user-images.githubusercontent.com/35272802/113391066-e5540680-93cd-11eb-81eb-beeb196366de.gif)
 
@@ -54,7 +74,7 @@ SJ, Steven, Kio
     5 x 6 + 2 = 32
     5 + 6 x 2 = 17
     ```
-    ![기본 사칙연산](https://user-images.githubusercontent.com/35272802/113393255-5d6ffb80-93d1-11eb-9830-9de5889ec0a6.gif)
+    ![기본 사칙연산](https://user-images.githubusercontent.com/35272802/113393255-5d6ffb80-93d1-11eb-9830-9de5889ec0a6.gif)
 - 사칙연산(+, -, /, *)을 눌렀을 때 연산된 값에 대해 화면 출력
     ```
     // 상황별 예시 
@@ -63,11 +83,11 @@ SJ, Steven, Kio
     ```
 - 3자리 숫자마다 콤마 적용
 - 입력 자릿수가 많아지면 화면크기에 맞게 숫자크기 조절   
-![라벨크기](https://user-images.githubusercontent.com/35272802/113394670-9dd07900-93d3-11eb-9fa0-f9f3132cac9f.gif)
+![라벨크기](https://user-images.githubusercontent.com/35272802/113394670-9dd07900-93d3-11eb-9fa0-f9f3132cac9f.gif)
 
 - 점을 여러번 눌러도 한번만 적용
 - 정수부와 실수부 모두 9자리까지만 화면에 보이게 적용   
-![점중복입력](https://user-images.githubusercontent.com/35272802/113394207-c73cd500-93d2-11eb-993c-a89122c9d405.gif)
+![점중복입력](https://user-images.githubusercontent.com/35272802/113394207-c73cd500-93d2-11eb-993c-a89122c9d405.gif)
 
 
 <br>
