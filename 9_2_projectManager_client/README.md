@@ -2,7 +2,28 @@
 아이패드용 트렐로 앱 클라이언트를 개발하는 프로젝트 입니다.
 
 ### 팀원
-Tak, Kane, Steven
+[Tak](https://github.com/Tak95), [Kane](https://github.com/kane-young), Steven
+
+## 프로젝트 설명
+- 칸반보드 형태의 할일 관리 아이패드 앱
+- 트렐로와 유사한 앱
+
+## 핵심 경험
+- TableView Drag And Drop의 이해 및 구현
+- 동적 TableView Cell 구현
+- TableView 스와이프 삭제 구현
+- Date Picker의 이해 및 구현
+- URLSession을 통한 네트워크 통신
+- Delegate을 활용한 데이터 전달
+
+## 프로젝트 화면
+![pm1](https://user-images.githubusercontent.com/35272802/131100738-b528ea08-e2a7-4cf0-9dd7-2f113805bc97.gif)
+![pm2](https://user-images.githubusercontent.com/35272802/131101332-a98457dd-c15b-42cb-b44c-87f85a760f97.gif)
+
+## PR
+[첫번째PR](https://github.com/yagom-academy/ios-project-manager/pull/22)<br>
+[두번째PR](https://github.com/yagom-academy/ios-project-manager/pull/30)
+
 
 ### 기간
 2021/07/19 - 2021/08/06
