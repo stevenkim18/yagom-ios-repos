@@ -22,7 +22,7 @@
 - UIImage의 이해와 구현
 
 ## PR
-[첫번째PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/38)
+[첫번째PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/38)<br>
 [두번째PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/63)
 
 
