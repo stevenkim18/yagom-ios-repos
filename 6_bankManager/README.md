@@ -15,7 +15,7 @@
 - GCD와 Operation의 차이점 이해 및 적용
 
 ## 프로젝트 화면
-![--2021-05-06--8 27 28](https://user-images.githubusercontent.com/35272802/117295035-52b3f500-aeae-11eb-82fd-7254ebf1b0e9.gif)
+<img src = "https://user-images.githubusercontent.com/35272802/117295035-52b3f500-aeae-11eb-82fd-7254ebf1b0e9.gif" width="50%">
 
 ## PR
 [첫번째PR](https://github.com/yagom-academy/ios-bank-manager/pull/34)<br>
