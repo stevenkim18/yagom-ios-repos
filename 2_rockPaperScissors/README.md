@@ -3,6 +3,28 @@
 ## 팀원
 @stevenkim18, [@ryan-son](https://github.com/ryan-son)
 
+## 프로젝트 설명
+- 묵찌빠 게임을 콘솔 화면으로 구현
+
+## 핵심 경험
+- enum과 CaseIterable 사용
+- 커스텀 Error 타입 정의
+- 접근제어자 사용
+- 기능별 함수 분리
+- 코딩 컨벤션 고려
+
+## 구현 화면
+![MTP](https://user-images.githubusercontent.com/35272802/131084188-3a5f9282-6d5e-4d20-b6a2-791d0a6a20ba.gif)
+
+## 팀원끼리 코드 리뷰
+[링크](https://github.com/ryan-son/ios-rock-paper-scissors/pull/1)
+
+## PR
+[첫번째 PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/33)<br>
+[두번째 PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/47)
+
+
+---
 #### ****우리 팀만의 규칙****
 
 - 각자 스케줄 외 시간에는 함께 공부 할 것
@@ -25,4 +47,3 @@
 
 - 커밋 메시지 규칙
     - [https://junwoo45.github.io/2020-02-06-commit_template/](https://junwoo45.github.io/2020-02-06-commit_template/)
-
