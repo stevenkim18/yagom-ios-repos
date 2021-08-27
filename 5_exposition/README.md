@@ -3,6 +3,29 @@
 - 개인 프로젝트
 - 기간: 4/5(월) - 4/16(일)
 
+## 프로젝트 설명
+- 만국박람회 전시품 설명 앱 만들기
+- 초기화면은 전시회 정보를 보여줌
+- 전시품 목록 화면에서는 테이블로 사진과 간단 설명을 보여줌
+- 해당 전시품을 클릭시 상세 화면으로 이동
+
+## 핵심 경험
+- codable 학습 및 채택 타입 구현
+- json에 대한 이해와 파싱 구현
+- ScrollView에 대한 이해와 구현
+- TableView에 대한 이해와 구현
+- TableView Delegate와 DataSource에 대한 이해와 구현
+- Delegate패턴의 이해와 구현
+- NavigationController에 대한 이해와 구현
+- 뷰컨사이에 데이터 전달 구현
+- 오토레이아웃 적용
+- UIImage의 이해와 구현
+
+## PR
+[첫번째PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/38)
+[두번째PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/63)
+
+
 ## 커밋 규칙
 [커밋 템플릿 만들기 링크](https://junwoo45.github.io/2020-02-06-commit_template/)
 
