@@ -17,8 +17,19 @@
 - 딕셔너리 사용
 
 ## PR
-[첫번째PR](https://github.com/yagom-academy/ios-juice-maker/pull/47)
+[첫번째PR](https://github.com/yagom-academy/ios-juice-maker/pull/47)<br>
 [두번째PR](https://github.com/yagom-academy/ios-juice-maker/pull/56)
+
+## TIL
+[3/9](https://stevenkim18.notion.site/Copy-of-TIL-210309-steven-98114d208e9c457aafe3690927654c24)<br>
+[3/11](https://stevenkim18.notion.site/Copy-of-TIL-210311-steven-ba65ae0cc64c43deac8f1007558d11cb)<br>
+[3/12](https://stevenkim18.notion.site/Copy-of-TIL-210312-steven-fbbd3743057948879b32a0f0afef266f)<br>
+[3/15](https://stevenkim18.notion.site/Copy-of-TIL-210315-steven-bf6cb2c213524285b0c3f74813eacb8e)<br>
+[3/16](https://stevenkim18.notion.site/Copy-of-TIL-210316-steven-75b9019db4f74f0b9fd4737ad9a0b13e)<br>
+[3/18](https://stevenkim18.notion.site/Copy-of-TIL-210318-steven-70437f72f9aa4ea996a22ac5c478aa24)<br>
+[3/19](https://stevenkim18.notion.site/Copy-of-TIL-210319-steven-495535865b8c404c9633f9f63e9b846f)<br>
+[주간회고1주차](https://stevenkim18.notion.site/Copy-of-2B-Sunny-Steven-TWL-4e0032d101c14b48a5225654b8f672a5)<br>
+[주간회고2주치](https://stevenkim18.notion.site/Copy-of-2B-Steven-Sunny-TWL-a7fcf2f55e6146fa85bbd2b0fd0bbe56)
 
 ## 기간
 - 2021/03/08 ~ 2021/03/21
