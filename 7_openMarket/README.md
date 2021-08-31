@@ -20,6 +20,24 @@
 ## PR
 [첫번째PR](https://github.com/yagom-academy/ios-open-market/pull/22)
 
+## TIL
+[5/10](https://stevenkim18.notion.site/Steven-TIL-210510-0d8752dddfa24891accdbc409e1a0ee9)<br>
+[5/11](https://stevenkim18.notion.site/Steven-TIL-210511-3fbab664f1094590ab418a98dce391a0)<br>
+[5/12](https://stevenkim18.notion.site/Steven-TIL-210512-5db04e4d272741bea0d291930a60f3a1)<br>
+[5/13](https://stevenkim18.notion.site/Steven-TIL-210513-1856495345be4d758c34c249432e0630)<br>
+[5/14](https://stevenkim18.notion.site/Steven-TIL-210514-7ac5cdb1136c46b6b65a728cadc09ddb)<br>
+[5/17](https://stevenkim18.notion.site/Steven-TIL-210517-54acd3be6017427eb5bd9517616606f9)<br>
+[5/18](https://stevenkim18.notion.site/Steven-TIL-210518-f811146c1899447598c724537860dff0)<br>
+[5/20](https://stevenkim18.notion.site/Steven-TIL-210520-01ba2bec70d14c04879a0c64df0c30b6)<br>
+[5/24](https://stevenkim18.notion.site/Steven-TIL-210524-e02fd28c06604593ae850819caf71488)<br>
+[5/25](https://stevenkim18.notion.site/Steven-TIL-210525-4ddd62099a5043219be1268a5d0b2145)<br>
+[5/27](https://stevenkim18.notion.site/Steven-TIL-210527-5bfb1c417de1438e9414041a12ff93a9)<br>
+[5/28](https://stevenkim18.notion.site/Steven-TIL-210528-f010aaf7af66445fab52d7a3e2fb65ad)<br>
+[주간회고1주차](https://stevenkim18.notion.site/3A-Steven-SJ-TWL-1-0295dfc9dd92482c8f203af9e648db1c)<br>
+[주간회고2주차](https://stevenkim18.notion.site/3A-Steven-SJ-TWL-2-d675596e77ca4f33a81bd49d611c6622)<br>
+[주간회고3주차](https://stevenkim18.notion.site/3A-Steven-SJ-TWL-5524e0dd01394ef69b3212bf050d867f)
+
+
 ## 프로젝트 게시판
 - 팀원과 동료들 그리고 리뷰어가 진행상호을 보기 쉽게 노션에 게시판을 만들고 기록을 하면서 진행했습니다.
 - 전체화면으로 보시는 것을 권장드립니다.
