@@ -22,6 +22,20 @@
 [두번째PR](https://github.com/yagom-academy/ios-bank-manager/pull/44)<br>
 [세번째PR](https://github.com/yagom-academy/ios-bank-manager/pull/57)
 
+## TIL
+[4/26](https://stevenkim18.notion.site/Steven-TIL-210426-a2a591cc5b944d7f98ba6526d6c0cdc1)<br>
+[4/27](https://stevenkim18.notion.site/Steven-TIL-210427-ab824b41b1334a0eaf577600cb707d8e)<br>
+[4/28](https://stevenkim18.notion.site/Steven-TIL-210428-54fe4c7309104c14a6df7d5fb39bceb8)<br>
+[4/29](https://stevenkim18.notion.site/Steven-TIL-210429-06550bce38394b99b93c329731e41aff)<br>
+[4/30](https://stevenkim18.notion.site/Steven-TIL-210430-5b91cc464813441191ca90f7dfcd3be1)<br>
+[5/3](https://stevenkim18.notion.site/Steven-TIL-210503-e0096fe7c2b147dd982b0a320d88bafb)<br>
+[5/4](https://stevenkim18.notion.site/steven-TIL-210504-bb97f135b18a47869db9e801aacdda32)<br>
+[5/6](https://stevenkim18.notion.site/Steven-TIL-210506-573f40f4d08c4016824456767ae5aa5c)<br>
+[5/7](https://stevenkim18.notion.site/Steven-TIL-210507-abe9781fcf2d450ab215236588328014)<br>
+[주간회고1주치](https://stevenkim18.notion.site/Sookim-Steven-1-2d864b904f1e410c94321257f3b991ac)<br>
+[주간회고2주치](https://stevenkim18.notion.site/1B-Steven-Sookim-2-7aec7d40e0a245d9be618ba1d2aa1234)
+
+
 ## 프로젝트 게시판
 - 팀원과 동료들 그리고 리뷰어가 진행상호을 보기 쉽게 노션에 게시판을 만들고 기록을 하면서 진행했습니다.
 - 전체화면으로 보시는 것을 권장드립니다.
