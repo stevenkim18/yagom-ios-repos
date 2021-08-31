@@ -22,10 +22,17 @@
 ## PR
 [첫번째PR](https://github.com/yagom-academy/ios-calculator-app/pull/23)
 
+## TIL
+[3/22](https://stevenkim18.notion.site/TIL-210322-steven-774bc3b4e3f1459eab5fd936c7c0fd1b)<br>
+[3/23](https://stevenkim18.notion.site/TIL-210323-steven-f8531493c35e4167a2e16781c839d9d6)<br>
+[3/25](https://stevenkim18.notion.site/TIL-210325-steven-d0fde10f756447e29edfb9af48a12c9a)<br>
+[3/26](https://stevenkim18.notion.site/TIL-210326-steven-acc49d9ed9e54d76aa0952992c3c3277)<br>
+[3/29](https://stevenkim18.notion.site/TIL-210329-steven-9f5f626ed6664c91a1f97120fb53b792)<br>
+[주간회고1주차](https://stevenkim18.notion.site/1A-Steven-Kio-SJ-1-5cc4c60ef9fe48e5a58a129148ac4eab)<br>
+[주간회고2주차](https://stevenkim18.notion.site/1A-Steven-Kio-SJ-2-929fe75a31444ddea165ab2e5e96fbae)
+
 ## 기간
 21/03/21 - 21/04/04
-
-
 
 ## 타임 라인
 - 3/21(월): 팀 그라운드 룰 작성, UML 공부 및 실습
