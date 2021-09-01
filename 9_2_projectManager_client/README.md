@@ -24,6 +24,24 @@
 [첫번째PR](https://github.com/yagom-academy/ios-project-manager/pull/22)<br>
 [두번째PR](https://github.com/yagom-academy/ios-project-manager/pull/30)
 
+## TIL
+[7/19](https://stevenkim18.notion.site/Steven-TIL-210719-c35a3c1fbf034d7d8d5bc12fc9c56db7)<br>
+[7/20](https://stevenkim18.notion.site/Steven-TIL-210720-42f7d3aa5cd54aecb854bde760536b8e)<br>
+[7/21](https://stevenkim18.notion.site/Steven-TIL-210721-f75d95bfc4a1450ab991f0b22d2ebf90)<br>
+[7/22](https://stevenkim18.notion.site/Steven-TIL-210722-bba1ad5c38b54535a2014043c3b5d140)<br>
+[7/23](https://stevenkim18.notion.site/Steven-TIL-210723-ca417ee3783f492c9e407fa5639e8a05)<br>
+[7/26](https://stevenkim18.notion.site/Steven-TIL-210726-2942a0deb04a4de39171e8086e823279)<br>
+[7/27](https://stevenkim18.notion.site/Steven-TIL-210727-816e85efbed64ff89eafe8ae946ba0ec)<br>
+[7/28](https://stevenkim18.notion.site/Steven-TIL-210728-beecc64481fe4f49b28d7085398b495b)<br>
+[7/29](https://stevenkim18.notion.site/Steven-TIL-210729-820e55ed6c4446e6bc991b0e1996c244)<br>
+[7/30](https://stevenkim18.notion.site/Steven-TIL-210730-48e5b7dab4ba4cd985f2c29df9d40509)<br>
+[8/2](https://stevenkim18.notion.site/Steven-TIL-210802-862054f5f6354b9ca7f446f14d971052)<br>
+[8/3](https://stevenkim18.notion.site/Steven-TIL-210803-9f4d3e6d5c15405eb754e0b4fd2bd854)<br>
+[8/4](https://stevenkim18.notion.site/Steven-TIL-210804-7662fd9d6f8f4d8389fb94f002f558c0)<br>
+[8/5](https://stevenkim18.notion.site/Steven-TIL-210805-a3a3ca99a0f843c08106da382a722ceb)<br>
+[8/6](https://stevenkim18.notion.site/Steven-TIL-210806-bd0b8c0b13154448bddf6e18b8992334)<br>
+[주간회고1주차](https://stevenkim18.notion.site/5A-Kane-Steven-Tak-TWL-8341b7ce39f043e59269dc1c3b40e054)<br>
+[주간회고2주차](https://stevenkim18.notion.site/5A-Tak-Kane-Steven-2-b6ff872095ef4355bda36d95a3d65b38)<br>
 
 ### 기간
 2021/07/19 - 2021/08/06
